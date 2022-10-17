@@ -1,0 +1,35 @@
+.gallery {
+  background-color: rgb(146, 240, 209);
+  height: 700px;
+  margin-top: -25px;
+}
+input {
+  border: none;
+  padding: 15px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  background-color: rgb(238, 244, 244);
+  outline: none;
+  width: 400px;
+}
+button {
+  color: white;
+  border: none;
+  background-color: rgb(53, 187, 143);
+  cursor: pointer;
+  padding: 5px;
+  border: 1px solid rgb(36, 164, 121);
+  margin: 10px 20px;
+  width: 60px;
+  font-size: larger;
+}
+button:hover {
+  background-color: rgb(15, 152, 106);
+}
+.col {
+  float: left;
+  margin: 20px;
+}
+.row {
+  background-color: blue;
+}
